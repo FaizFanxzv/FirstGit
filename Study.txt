@@ -1,3 +1,4 @@
 1. Belajar mengikhlaskan
-2. Move On
-3. Cari yang baru
+2. Gagal Move on
+3. Balikan 
+4. putus lagi
